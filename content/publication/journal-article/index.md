@@ -32,7 +32,7 @@ draft: false
 featured: false
 tags: []
 slides: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://arxiv.org/pdf/2302.08043.pdf)
+url_pdf: https://arxiv.org/pdf/2302.08043.pdf
 image:
   caption: ""
   focal_point: ""
