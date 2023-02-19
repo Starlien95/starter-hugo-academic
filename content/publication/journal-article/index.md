@@ -36,7 +36,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In WWW2023
+publication_short: In *WWW2023*
 url_source: ""
 url_video: ""
 title: "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural
