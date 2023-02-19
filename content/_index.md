@@ -25,11 +25,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: CEO
-          company: University of Science and Technology of China
+          company: GenCoin
           company_url: 'https://www.ustc.edu.cn/'
           company_logo: org-gc
-          location: Hefei, China
-          date_start: '2019-09'
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -37,13 +37,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Bachelor
+        - title: Bacheloar
           company: University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
           company_logo: org-x
           location: Hefei, China
-          date_start: '2015-09'
-          date_end: '2019-07'
+          date_start: '2015-09-01'
+          date_end: '2020-07-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
