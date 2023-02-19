@@ -94,8 +94,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Prompt Tuning
-          tag: Prompt Tuning
+        - name: Graph Learning
+          tag: Graph Learning
         - name: Other
           tag: Other
     design:
