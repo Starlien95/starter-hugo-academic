@@ -1,5 +1,4 @@
 ---
-title: Learning to Count Isomorphisms with Graph Neural Networks
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
@@ -17,12 +16,10 @@ authors:
   - Zemin Liu
   - Yuan Fang
   - Xinming Zhang
+author_notes:
+  - Equal contribution
+  - Equal contribution
 publication: ""
-featured: false
-tags:
-  - Source Themes
-projects:
-  - internal-project
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -31,11 +28,17 @@ url_project: ""
 publication_short: ""
 url_source: "#"
 url_video: "#"
+title: Learning to Count Isomorphisms with Graph Neural Networks
+featured: false
+tags:
+  - Source Themes
 date: 2019-04-07T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
+projects:
+  - internal-project
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
