@@ -40,7 +40,7 @@ publication: In * Association for the Advancement of Artificial Intelligence
 summary: ""
 url_dataset: "#"
 url_project: ""
-publication_short: Equal contribution, Equal contribution
+publication_short: ""
 url_source: "#"
 url_video: "#"
 title: Learning to Count Isomorphisms with Graph Neural Networks
