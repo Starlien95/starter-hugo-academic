@@ -19,7 +19,8 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: ""
+publication: In * Association for the Advancement of Artificial Intelligence
+  2023 Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
