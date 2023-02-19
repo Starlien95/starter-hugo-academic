@@ -1,5 +1,5 @@
 ---
-title: Xingtong Yu 于星橦
+title: Xingtong Yu
 role: Ph.D. Student
 avatar_filename: avatar.png.jpg
 bio: My research interests include data mining, graph mining and prompt.
