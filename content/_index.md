@@ -94,8 +94,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Graph Learning
-          tag: Graph Learning
+        - name: Graph Mining
+          tag: Graph Mining
         - name: Other
           tag: Other
     design:
