@@ -27,7 +27,7 @@ sections:
         - title: Visiting Research Student
           company: Singapore Management University
           company_url: '[https://www.ustc.edu.cn/](https://www.smu.edu.sg/)'
-          company_logo: org-gc
+          company_logo: ''
           location: Singapore, Singapore
           date_start: '2022-07-01'
           date_end: ''
