@@ -24,6 +24,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting Research Student
+          company: Singapore Management University
+          company_url: '[https://www.ustc.edu.cn/](https://www.smu.edu.sg/)'
+          company_logo: org-gc
+          location: Singapore, Singapore
+          date_start: '2022-07-01'
+          date_end: ''
+          description: ''
+        - title: Bacheloar
+          company: University of Science and Technology of China
+          company_url: 'https://www.ustc.edu.cn/'
+          company_logo: org-x
+          location: Hefei, China
+          date_start: '2015-09-01'
+          date_end: '2019-07-01'
+          description: ''
         - title: Ph.D. Student
           company: University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
