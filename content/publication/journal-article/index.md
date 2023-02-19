@@ -1,4 +1,14 @@
 ---
+title: "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural
+  Networks"
+publication_types:
+  - "1"
+authors:
+  - Zemin Liu
+  - admin
+  - Yuan Fang
+  - Xinming Zhang
+publication_short: In *WWW2023*
 abstract: "Graphs can model complex relationships between objects, enabling a
   myriad of Web applications such as online page/article classification and
   social recommendation. While graph neural networks (GNNs) have emerged as a
@@ -18,36 +28,27 @@ abstract: "Graphs can model complex relationships between objects, enabling a
   in locating the most relevant knowledge from the pre-train model in a
   task-specific manner. Finally, we conduct extensive experiments on five public
   datasets to evaluate and analyze GraphPrompt."
-slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "1"
-authors:
-  - Zemin Liu
-  - admin
-  - Yuan Fang
-  - Xinming Zhang
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: ""
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: In *WWW2023*
-url_source: ""
-url_video: ""
-title: "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural
-  Networks"
-doi: ""
+draft: false
 featured: false
 tags: []
-projects: []
+slides: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: feature.jpg
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes:
+  - Equal contribution
+  - Equal contribution
+doi: ""
+publication: ""
+projects: []
 date: 2023-02-19T14:50:02.711Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
