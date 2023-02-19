@@ -35,7 +35,7 @@ sections:
         - title: Ph.D. Student
           company: University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
-          company_logo: org-gc
+          company_logo: ''
           location: Hefei, China
           date_start: '2019-09-01'
           date_end: ''
@@ -43,7 +43,7 @@ sections:
         - title: Bacheloar
           company: University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
-          company_logo: org-x
+          company_logo: ''
           location: Hefei, China
           date_start: '2015-09-01'
           date_end: '2019-07-01'
