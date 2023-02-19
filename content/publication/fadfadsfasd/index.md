@@ -1,7 +1,7 @@
 ---
 title: fadfadsfasd
 publication_types:
-  - "0"
+  - "1"
 authors:
   - admin
 draft: false
