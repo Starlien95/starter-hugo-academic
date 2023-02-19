@@ -28,15 +28,32 @@ abstract: "Subgraph isomorphism counting is an important problem on graphs, as
   the edge adjacency to preserve fine-grained structural information. At the
   graph level, we modulate the input graph representation conditioned on the
   query, so that the input graph can be adapted to each query individually to
-  improve their
-
-  matching. Finally, we conduct extensive experiments on a number of benchmark
+  improve their matching. Finally, we conduct extensive experiments on a number of benchmark
   datasets to demonstrate the superior performance of Count-GNN."
 draft: false
 featured: false
+tags: []
+slides: ""
+url_pdf: https://arxiv.org/pdf/2302.03266.pdf
 image:
-  filename: feature.jpg
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
-date: 2023-02-19T15:23:19.006Z
+  filename: feature.jpg
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes:
+  - Equal contribution
+  - Equal contribution
+doi: ""
+publication: ""
+projects: []
+date: 2023-02-19T14:50:02.711Z
+url_slides: ""
+publishDate: ""
+url_poster: ""
+url_code: https://github.com/Starlien95/Count-GNN
 ---
