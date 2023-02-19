@@ -44,7 +44,7 @@ sections:
           location: Hefei, China
           date_start: '2015-09'
           date_end: '2019-07'
-           description: Taught electronic engineering and researched semiconductor physics.
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
