@@ -8,12 +8,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=VKWhRggAAAAJ&hl=en&inst=14102473421921925766
@@ -22,7 +16,7 @@ social:
     link: https://github.com/Starlien95
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%98%9F%E6%A9%A6-%E4%BA%8E-583050267/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
