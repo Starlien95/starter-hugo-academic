@@ -26,7 +26,7 @@ sections:
       items:
         - title: Visiting Research Student
           company: Singapore Management University
-          company_url: '[https://www.ustc.edu.cn/](https://www.smu.edu.sg/)'
+          company_url: 'https://www.smu.edu.sg/'
           company_logo: ''
           location: Singapore, Singapore
           date_start: '2022-07-01'
@@ -40,7 +40,7 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: ''
-        - title: Bacheloar
+        - title: Bachelor
           company: University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
           company_logo: ''
