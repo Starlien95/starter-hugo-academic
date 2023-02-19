@@ -31,12 +31,12 @@ sections:
           location: Hefei, China
           date_start: '2019-09'
           date_end: ''
-          #description: |2-
-          #    Responsibilities include:
+          description: |2-
+              Responsibilities include:
 
-          #    * Analysing
-          #    * Modelling
-          #    * Deploying
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Bachelor
           company: University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
@@ -44,7 +44,7 @@ sections:
           location: Hefei, China
           date_start: '2015-09'
           date_end: '2019-07'
-          # description: Taught electronic engineering and researched semiconductor physics.
+           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
