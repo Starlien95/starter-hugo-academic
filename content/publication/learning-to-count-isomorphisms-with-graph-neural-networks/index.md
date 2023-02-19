@@ -34,8 +34,8 @@ abstract: "Subgraph isomorphism counting is an important problem on graphs, as
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: feature.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-02-19T15:20:37.718Z
+date: 2023-02-19T15:23:19.006Z
 ---
