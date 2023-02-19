@@ -35,12 +35,11 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In * Association for the Advancement of Artificial Intelligence
-  2023 Conference*
+publication: ""
 summary: ""
 url_dataset: "#"
 url_project: ""
-publication_short: ""
+publication_short: In *AAAI-23*
 url_source: "#"
 url_video: "#"
 title: Learning to Count Isomorphisms with Graph Neural Networks
