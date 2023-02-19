@@ -21,8 +21,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Science and Technology of China
+    url: https://www.ustc.edu.cn/
 education:
   courses: []
 superuser: true
