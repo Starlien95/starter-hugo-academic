@@ -52,7 +52,7 @@ links:
     url: http://example.org
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg.png
