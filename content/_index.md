@@ -122,7 +122,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Presentations
+      title: Talks
       filters:
         folders:
           - event
