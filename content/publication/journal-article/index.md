@@ -18,7 +18,7 @@ abstract: "Graphs can model complex relationships between objects, enabling a
   in locating the most relevant knowledge from the pre-train model in a
   task-specific manner. Finally, we conduct extensive experiments on five public
   datasets to evaluate and analyze GraphPrompt."
-slides: example
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "1"
@@ -43,8 +43,7 @@ title: "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural
   Networks"
 doi: ""
 featured: false
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
@@ -56,13 +55,3 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
