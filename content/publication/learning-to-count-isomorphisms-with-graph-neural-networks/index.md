@@ -7,7 +7,7 @@ authors:
   - Zemin Liu
   - Yuan Fang
   - Xinming Zhang
-publication_short: In *AAAI-23*
+publication_short: Accept by *AAAI-23*
 abstract: Subgraph isomorphism counting is an important problem on graphs, as
   many graph-based tasks exploit recurring subgraph patterns. Classical methods
   usually boil down to a backtracking framework that needs to navigate a huge
