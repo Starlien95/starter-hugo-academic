@@ -8,7 +8,7 @@ authors:
   - admin
   - Yuan Fang
   - Xinming Zhang
-publication_short: In *WWW2023*
+publication_short: Accept by *WWW2023*
 abstract: Graphs can model complex relationships between objects, enabling a
   myriad of Web applications such as online page/article classification and
   social recommendation. While graph neural networks (GNNs) have emerged as a
