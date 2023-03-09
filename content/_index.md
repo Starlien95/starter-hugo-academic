@@ -33,7 +33,7 @@ sections:
           date_end: ''
           description: |2-
               * Supervisor: [Yuan Fang](https://www.yfang.site/)
-              * Mentor: Zemin Liu
+              * Mentor: [Zemin Liu](https://zemin-liu.github.io/)
         - title: Ph.D. Student
           company: School of Computer Science and Technology, University of Science and Technology of China
           company_url: 'http://cs.ustc.edu.cn/main.htm'
@@ -42,7 +42,7 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-              * Supervisor: Xinming Zhang
+              * Supervisor: [Xinming Zhang](http://staff.ustc.edu.cn/~xinming/)
         - title: Bachelor
           company: School of the Gifted Young, University of Science and Technology of China
           company_url: 'https://sgy.ustc.edu.cn/'
