@@ -32,8 +32,7 @@ sections:
           date_start: '2022-07-01'
           date_end: ''
           description: |2-
-              Supervisor: 
-              * Yuan Fang
+              * Supervisor: Yuan Fang
         - title: Ph.D. Student
           company: School of Computer Science and Technology, University of Science and Technology of China
           company_url: 'http://cs.ustc.edu.cn/main.htm'
@@ -42,8 +41,7 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
-              Supervisor: 
-              * Xinming Zhang
+              * Supervisor: Xinming Zhang
         - title: Bachelor
           company: School of the Gifted Young, University of Science and Technology of China
           company_url: 'https://sgy.ustc.edu.cn/'
