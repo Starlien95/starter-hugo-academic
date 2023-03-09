@@ -39,7 +39,7 @@ sections:
           location: Hefei, China
           date_start: '2019-09-01'
           date_end: ''
-          description: |2-
+          description: 
               Supervisor: 
             
               * Xinming Zhang
