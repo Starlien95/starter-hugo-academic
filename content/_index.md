@@ -25,8 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Visiting Research Student
-          company: School of Computing and Information System, 
-          Singapore Management University
+          company: School of Computing and Information System, \Singapore Management University
           company_url: 'https://scis.smu.edu.sg/'
           company_logo: ''
           location: Singapore, Singapore
