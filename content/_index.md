@@ -33,6 +33,7 @@ sections:
           date_end: ''
           description: |2-
               * Supervisor: Yuan Fang
+              * Mentor: Zemin Liu
         - title: Ph.D. Student
           company: School of Computer Science and Technology, University of Science and Technology of China
           company_url: 'http://cs.ustc.edu.cn/main.htm'
