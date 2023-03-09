@@ -39,9 +39,10 @@ sections:
           location: Hefei, China
           date_start: '2019-09-01'
           date_end: ''
-          description: 
-            Supervisor: 
-            * Xinming Zhang
+          description: |2-
+              Supervisor: 
+            
+              * Xinming Zhang
         - title: Bachelor
           company: School of the Gifted Young, University of Science and Technology of China
           company_url: 'https://sgy.ustc.edu.cn/'
