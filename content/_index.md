@@ -31,7 +31,7 @@ sections:
           location: Singapore, Singapore
           date_start: '2022-07-01'
           date_end: ''
-          description: ''
+          description: 'Supervisor: Yuan Fang'
         - title: Ph.D. Student
           company: School of Computer Science and Technology, University of Science and Technology of China
           company_url: 'http://cs.ustc.edu.cn/main.htm'
@@ -39,7 +39,7 @@ sections:
           location: Hefei, China
           date_start: '2019-09-01'
           date_end: ''
-          description: ''
+          description: 'Supervisor: Xinming Zhang'
         - title: Bachelor
           company: School of the Gifted Young, University of Science and Technology of China
           company_url: 'https://sgy.ustc.edu.cn/'
