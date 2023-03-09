@@ -26,7 +26,7 @@ sections:
       items:
         - title: Visiting Research Student
           company: School of Computing and Information System, Singapore Management University
-          company_url: 'https://www.smu.edu.sg/'
+          company_url: 'https://scis.smu.edu.sg/'
           company_logo: ''
           location: Singapore, Singapore
           date_start: '2022-07-01'
@@ -34,7 +34,7 @@ sections:
           description: ''
         - title: Ph.D. Student
           company: School of Computer Science and Technology, University of Science and Technology of China
-          company_url: 'https://www.ustc.edu.cn/'
+          company_url: 'http://cs.ustc.edu.cn/main.htm'
           company_logo: ''
           location: Hefei, China
           date_start: '2019-09-01'
@@ -42,7 +42,7 @@ sections:
           description: ''
         - title: Bachelor
           company: School of the Gifted Young, University of Science and Technology of China
-          company_url: 'https://www.ustc.edu.cn/'
+          company_url: 'https://sgy.ustc.edu.cn/'
           company_logo: ''
           location: Hefei, China
           date_start: '2015-09-01'
