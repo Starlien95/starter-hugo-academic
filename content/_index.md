@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Visiting Research Student
-          company: Singapore Management University
+          company: School of Computing and Information System, Singapore Management University
           company_url: 'https://www.smu.edu.sg/'
           company_logo: ''
           location: Singapore, Singapore
@@ -33,7 +33,7 @@ sections:
           date_end: ''
           description: ''
         - title: Ph.D. Student
-          company: University of Science and Technology of China
+          company: School of Computer Science and Technology, University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
           company_logo: ''
           location: Hefei, China
@@ -41,7 +41,7 @@ sections:
           date_end: ''
           description: ''
         - title: Bachelor
-          company: University of Science and Technology of China
+          company: School of the Gifted Young, University of Science and Technology of China
           company_url: 'https://www.ustc.edu.cn/'
           company_logo: ''
           location: Hefei, China
