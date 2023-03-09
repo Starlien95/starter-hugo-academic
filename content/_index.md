@@ -32,7 +32,7 @@ sections:
           date_start: '2022-07-01'
           date_end: ''
           description: |2-
-              * Supervisor: Yuan Fang
+              * Supervisor: [Yuan Fang](https://www.yfang.site/)
               * Mentor: Zemin Liu
         - title: Ph.D. Student
           company: School of Computer Science and Technology, University of Science and Technology of China
