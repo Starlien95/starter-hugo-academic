@@ -71,7 +71,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Professional;Service'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -87,7 +87,7 @@ sections:
           description: 'Reviewer'
           organization: NeruIPS
           organization_url: https://neurips.cc/Conferences/2023
-          title: NeruIPS2023
+          title: NeruIPS 2023
           url: ''
     design:
       columns: '2'
