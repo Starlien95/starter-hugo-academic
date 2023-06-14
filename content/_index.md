@@ -71,7 +71,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Professional$shy;Service'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -81,9 +81,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2023-06'
+          date_start: '2023-06-25'
           description: 'Reviewer'
           organization: NeruIPS
           organization_url: https://neurips.cc/Conferences/2023
