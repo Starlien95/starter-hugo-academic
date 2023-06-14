@@ -83,9 +83,9 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: ''
+          date_start: '2023-06-23'
           description: 'NeurIPS'
-          organization: '2023'
+          organization: ''
           organization_url: ''
           title: Program Committee Member or Reviewer for Conferences
           url: ''
