@@ -83,7 +83,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: ''
+          date_start: '2023'
           description: 'Program Committee Member'
           organization: Coursera
           organization_url: https://neurips.cc/Conferences/2023
