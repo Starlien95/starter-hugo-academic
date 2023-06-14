@@ -83,11 +83,11 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023'
+          description: 'Reviewer'
+          organization: NeruIPS
+          organization_url: https://neurips.cc/Conferences/2023
+          title: NeruIPS2023
           url: ''
     design:
       columns: '2'
