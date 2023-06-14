@@ -83,8 +83,8 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-06-25'
-          description: 'NeurIPS Conference Reviewer'
+          date_start: '2023'
+          description: 'NeurIPS, IJACI(subreviewer)'
           organization: ''
           organization_url: ''
           title: Program Committee Member or Reviewer for Conferences
