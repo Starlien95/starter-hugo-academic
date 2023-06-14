@@ -68,29 +68,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Professional Service'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: 2023
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023'
-          description: 'Program Committee Member'
-          organization: Coursera
-          organization_url: https://neurips.cc/Conferences/2023
-          title: NeruIPS
-          url: ''
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
