@@ -84,10 +84,10 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-06-25'
-          description: 'Reviewer'
-          organization: NeruIPS
-          organization_url: https://neurips.cc/Conferences/2023
-          title: NeruIPS 2023
+          description: 'NeurIPS Conference Reviewer'
+          organization: ''
+          organization_url: ''
+          title: Program Committee Member or Reviewer for Conferences
           url: ''
     design:
       columns: '2'
