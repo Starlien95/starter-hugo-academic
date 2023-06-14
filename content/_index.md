@@ -83,19 +83,19 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-05-23'
-          description: 'NeurIPS'
-          organization: ''
-          organization_url: ''
-          title: Program Committee Member or Reviewer for Conferences
-          url: ''
-        - certificate_url: ''
-          date_end: ''
           date_start: '2023-06-23'
           description: 'Frontiers of Computer Science'
           organization: ''
           organization_url: ''
           title: Reviewer for Journals
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-05-23'
+          description: 'NeurIPS'
+          organization: ''
+          organization_url: ''
+          title: Program Committee Member or Reviewer for Conferences
           url: ''
     design:
       columns: '2'
