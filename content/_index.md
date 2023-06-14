@@ -74,7 +74,7 @@ sections:
       title: 'Professional&shy;Service'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -83,8 +83,8 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2023'
-          description: 'NeurIPS, IJACI(subreviewer)'
+          date_start: '2023-06-25'
+          description: 'NeurIPS'
           organization: ''
           organization_url: ''
           title: Program Committee Member or Reviewer for Conferences
