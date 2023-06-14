@@ -83,7 +83,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-06-25'
+          date_start: ''
           description: 'NeurIPS'
           organization: '2023'
           organization_url: ''
