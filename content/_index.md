@@ -83,7 +83,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2023'
+          date_start: '2023-06'
           description: 'Reviewer'
           organization: NeruIPS
           organization_url: https://neurips.cc/Conferences/2023
