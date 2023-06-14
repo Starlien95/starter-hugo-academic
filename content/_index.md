@@ -89,7 +89,6 @@ sections:
           organization_url: ''
           title: Program Committee Member or Reviewer for Conferences
           url: ''
-      items:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-06-23'
