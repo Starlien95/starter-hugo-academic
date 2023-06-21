@@ -36,7 +36,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: feature.jpg
+  filename: featured.png
 summary: ""
 url_dataset: ""
 url_project: ""
