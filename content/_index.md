@@ -45,7 +45,7 @@ sections:
               * Supervisor: [Xinming Zhang](http://staff.ustc.edu.cn/~xinming/)
         - title: Bachelor
           company: School of the Gifted Young, University of Science and Technology of China
-          company_url: 'https://sgy.ustc.edu.cn/'
+          company_url: 'http://en.scgy.ustc.edu.cn/'
           company_logo: ''
           location: Hefei, China
           date_start: '2015-09-01'
