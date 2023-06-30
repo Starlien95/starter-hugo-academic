@@ -36,7 +36,7 @@ sections:
               * Mentor: [Zemin Liu](https://zemin-liu.github.io/)
         - title: Ph.D. Student
           company: School of Computer Science and Technology, University of Science and Technology of China
-          company_url: 'http://cs.ustc.edu.cn/main.htm'
+          company_url: 'http://en.cs.ustc.edu.cn/main.htm'
           company_logo: ''
           location: Hefei, China
           date_start: '2019-09-01'
