@@ -7,11 +7,12 @@ authors:
   - Wenyu Zhang
   - Xin Deng
   - Baojun Jia
-  - Xingtong Yu
+  - admin
   - Yifan Chen
   - jin Ma
   - Qing Ding
   - Xinming Zhang
+publication: ACMMM 2023
 abstract: Current Scene text image super-resolution approaches primarily focus
   on extracting robust features from low-resolution images and optimizing the
   loss function during training to generate super-resolution images. However,
@@ -38,7 +39,7 @@ abstract: Current Scene text image super-resolution approaches primarily focus
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: framework.png
   focal_point: Smart
   preview_only: false
 date: 2023-08-06T02:38:03.393Z
