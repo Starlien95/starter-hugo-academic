@@ -13,7 +13,7 @@ authors:
   - Qing Ding
   - Xinming Zhang
 publication: ""
-publication_short: ACMMM 2023
+publication_short: The ACM International Conference on Multimedia (ACMMM), 2023
 abstract: Current Scene text image super-resolution approaches primarily focus
   on extracting robust features from low-resolution images and optimizing the
   loss function during training to generate super-resolution images. However,
