@@ -83,7 +83,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-06-23'
+          date_start: '2023-06'
           description: 'Frontiers of Computer Science'
           organization: ''
           organization_url: ''
@@ -91,7 +91,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: ''
+          date_start: '2023-05'
           description: 'NeurIPS'
           organization: ''
           organization_url: ''
