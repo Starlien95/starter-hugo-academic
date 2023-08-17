@@ -35,7 +35,7 @@ url_pdf: https://arxiv.org/pdf/2302.08043.pdf
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.png
 summary: ""
 url_dataset: ""
