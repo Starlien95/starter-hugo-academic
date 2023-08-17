@@ -28,7 +28,7 @@ abstract: Graphs can model complex relationships between objects, enabling a
   Finally, we conduct extensive experiments on five public datasets to evaluate
   and analyze GraphPrompt.
 draft: false
-featured: true
+featured: false
 tags: []
 slides: ""
 url_pdf: https://arxiv.org/pdf/2302.08043.pdf
