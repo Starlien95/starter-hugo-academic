@@ -30,7 +30,7 @@ abstract: Subgraph isomorphism counting is an important problem on graphs, as
   the input graph can be adapted to each query individually to improve their
   matching. Finally, we conduct extensive experiments on a number of benchmark
   datasets to demonstrate the superior performance of Count-GNN.
-draft: false
+draft: true
 featured: true
 tags: []
 slides: ""
