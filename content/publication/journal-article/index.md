@@ -12,10 +12,10 @@ publication_short: The ACM Web Conference (WWW), 2023
 abstract: Graph Neural Networks  require massive task-specific labeled data. To
   mitigate this, paradigms like "pre-train, finetune" have been adopted, but the
   objectives of pre-training and downstream tasks are inconsistent which leads
-  to poor performance. This paper propose GraphPrompt, a new framework that
-  unifies pre-training and downstream tasks for graphs. It uses a unified
-  template and a learnable prompt to transfer relevant knowledge for specific
-  downstream tasks.
+  to poor performance. Inspired by "pre-train, prompt" paradigm in language
+  domain, this paper proposes GraphPrompt, a new framework that unifies
+  pre-training and downstream tasks for graphs. It uses a unified template and a
+  learnable prompt to transfer relevant knowledge for specific downstream tasks.
 draft: false
 featured: true
 tags: []
