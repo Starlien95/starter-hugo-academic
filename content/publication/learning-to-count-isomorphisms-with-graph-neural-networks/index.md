@@ -8,17 +8,15 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: The AAAI Conference on Artificial Intelligence (AAAI), 2023
-abstract: "Subgraph isomorphism counting, which finds recurring patterns in
-  graphs, has traditionally been approached with backtracking methods that have
-  high computational costs. Recent attempts have used graph neural networks
-  (GNNs) to predict isomorphism counts but face challenges due to their
-  node-centric message passing and the vast variety of query graphs. This paper
-  introduces Count-GNN, a novel GNN for subgraph isomorphism counting. Count-GNN
-  features an edge-centric message passing scheme, capitalizing on the idea that
-  an edge is a fundamental unit for encoding graph structures, ensuring detailed
-  structural information is preserved. Additionally, Count-GNN adjusts the input
-  graph representation based on the query, allowing for tailored graph-query
-  matching. "
+abstract: "Subgraph isomorphism counting has traditionally been approached with
+  backtracking methods that have high computational costs. Recent attempts have
+  used graph neural networks (GNNs) to predict isomorphism counts but face
+  challenges due to their node-centric message passing and the vast variety of
+  query graphs. This paper introduces Count-GNN features an edge-centric message
+  passing scheme, capitalizing on the idea that an edge is a fundamental unit
+  for encoding graph structures, ensuring detailed structural information is
+  preserved. Additionally, Count-GNN adjusts the input graph representation
+  based on the query, allowing for tailored graph-query matching. "
 draft: false
 featured: true
 tags: []
