@@ -9,12 +9,13 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: The ACM Web Conference (WWW), 2023
-abstract: We propose GraphPrompt, a new pre-training and prompting framework for
-  graphs. Recognizing the limitations of "pre-trian, finetune" paradigm that the
-  objective of pre-training and downstream tasks are inconsistent, GraphPrompt
-  unifies pre-training and downstream tasks using a shared template.
-  Furthermore, it utilizes a learnable prompt to help tasks retrieve relevant
-  information from pre-trained models.
+abstract: Graph Neural Networks  require massive task-specific labeled data. To
+  mitigate this, paradigms like "pre-train, finetune" have been adopted, but the
+  objectives of pre-training and downstream tasks are inconsistent which leads
+  to poor performance. This paper propose GraphPrompt, a new framework that
+  unifies pre-training and downstream tasks for graphs. It uses a unified
+  template and a learnable prompt to transfer relevant knowledge for specific
+  downstream tasks.
 draft: false
 featured: true
 tags: []
