@@ -103,7 +103,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-05-23'
-          description: 'NeurIPS2023, ICLR2024'
+          description: 'NeurIPS 2023, ICLR 2024'
           organization: ''
           organization_url: ''
           title: PC Member or Reviewer for Conferences
