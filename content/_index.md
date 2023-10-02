@@ -106,7 +106,7 @@ sections:
           description: 'NeurIPS 2023, ICLR 2024'
           organization: ''
           organization_url: ''
-          title: PC Member or Reviewer for Conferences
+          title: PC Member for Conferences
           url: ''
     design:
       columns: '2'
