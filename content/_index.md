@@ -98,15 +98,15 @@ sections:
           description: 'Frontiers of Computer Science'
           organization: ''
           organization_url: ''
-          title: Reviewer for Journals 2023
+          title: Reviewer for Journals
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2023-05-23'
-          description: 'NeurIPS'
+          description: 'NeurIPS2023, ICLR2024'
           organization: ''
           organization_url: ''
-          title: Program Committee Member or Reviewer for Conferences 2023
+          title: PC Member or Reviewer for Conferences
           url: ''
     design:
       columns: '2'
