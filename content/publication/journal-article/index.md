@@ -12,7 +12,9 @@ publication_short: The ACM Web Conference (WWW), 2023
 abstract: ""
 draft: false
 featured: true
-tags: []
+tags:
+  - Ranking among the Most Influential Papers in WWW'23 by Paper Digest (2023-09
+    Version)
 slides: ""
 url_pdf: https://arxiv.org/pdf/2302.08043.pdf
 image:
