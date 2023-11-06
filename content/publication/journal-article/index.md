@@ -9,9 +9,7 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: The ACM Web Conference (WWW), 2023
-abstract: This paper proposes GraphPrompt, a framework that unifies pre-training
-  and downstream tasks for graphs. It uses a unified template and a learnable
-  prompt to transfer relevant knowledge for specific downstream tasks.
+abstract: ""
 draft: false
 featured: true
 tags: []
@@ -21,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  filename: featured.png
+  filename: ""
 summary: ""
 url_dataset: ""
 url_project: ""
