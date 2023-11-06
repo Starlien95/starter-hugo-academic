@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
+        - title: Visiting Research Student
           company: School of Computing and Information System, Singapore Management University
           company_url: 'https://scis.smu.edu.sg/'
           company_logo: ''
@@ -67,7 +67,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Other Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -95,10 +95,10 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-06-27'
-          description: 'Frontiers of Computer Science'
+          description: 'Frontiers of Computer Science, PeerJ'
           organization: ''
           organization_url: ''
-          title: Reviewer for Journals
+          title: Journal Reviewer
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -106,7 +106,7 @@ sections:
           description: 'NeurIPS 2023, ICLR 2024'
           organization: ''
           organization_url: ''
-          title: PC Member for Conferences
+          title: Conference Program Committee Member
           url: ''
     design:
       columns: '2'
