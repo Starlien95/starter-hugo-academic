@@ -1,6 +1,8 @@
 ---
 title: "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural
   Networks"
+subtitle: Ranking among the Most Influential Papers in WWW'23 by Paper Digest
+  (2023-09 Version)
 publication_types:
   - "1"
 authors:
@@ -12,16 +14,9 @@ publication_short: The ACM Web Conference (WWW), 2023
 abstract: ""
 draft: false
 featured: true
-tags:
-  - Ranking among the Most Influential Papers in WWW'23 by Paper Digest (2023-09
-    Version)
+projects: []
 slides: ""
 url_pdf: https://arxiv.org/pdf/2302.08043.pdf
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: true
-  filename: ""
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -32,7 +27,12 @@ author_notes:
   - Equal contribution
 doi: https://doi.org/10.1145/3543507.3583386
 publication: ""
-projects: []
+tags: []
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+  filename: ""
 date: 2023-02-19T15:26:29.134Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
