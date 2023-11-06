@@ -8,10 +8,7 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: The AAAI Conference on Artificial Intelligence (AAAI), 2023
-abstract: "This paper proposes Count-GNN features an edge-centric message
-  passing scheme, ensuring detailed structural information is preserved.
-  Additionally, Count-GNN adjusts the input graph representation based on the
-  query, allowing for tailored graph-query matching. "
+abstract: ""
 draft: false
 featured: true
 tags: []
@@ -21,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  filename: feature.jpg
+  filename: ""
 summary: ""
 url_dataset: ""
 url_project: ""
