@@ -30,7 +30,7 @@ tags: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: ""
 date: 2023-02-19T15:26:29.134Z
 url_slides: ""
