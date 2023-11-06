@@ -1,8 +1,7 @@
 ---
 title: "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural
   Networks"
-subtitle: Ranking among the Most Influential Papers in WWW'23 by Paper Digest
-  (2023-09 Version)
+subtitle: ""
 publication_types:
   - "1"
 authors:
