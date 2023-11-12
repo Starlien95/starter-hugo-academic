@@ -84,7 +84,7 @@ sections:
     id: services
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Academic&shy;Service
+      title: Academic Service
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
