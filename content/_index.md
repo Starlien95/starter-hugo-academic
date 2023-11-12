@@ -80,6 +80,7 @@ sections:
       columns: '2'
       view: citation
   - block: accomplishments
+    id: services
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Professional&shy;Service'
