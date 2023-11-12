@@ -89,6 +89,8 @@ sections:
       text: |-
       Program Committee
       Journal Reviewer
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
