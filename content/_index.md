@@ -92,7 +92,8 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      - title: Journal Reviewer
+      items:
+        - title: Journal Reviewer
           company: ''
           company_url: ''
           company_logo: ''
