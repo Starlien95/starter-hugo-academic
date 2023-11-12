@@ -103,6 +103,16 @@ sections:
           description: |2-
               * NeurIPS (2023)
               * ICLR (2024)
+        - title: Journal Reviewer
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2023-05'
+          date_end: ''
+          description: |2-
+              * Frontiers of Computer Science
+              * PeerJ
     design:
       columns: '2'
 ---
