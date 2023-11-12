@@ -88,7 +88,7 @@ sections:
       subtitle:
       text: |-
         Program Committee
-        * NeruIPS
+          * NeruIPS
     design:
       columns: '2'
 ---
