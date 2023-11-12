@@ -87,10 +87,6 @@ sections:
       title: Academic Service
       subtitle:
       text: |-
-      # Contact (add or remove contact options as necessary)
-      email: yxt95@mail.ustc.edu.cn
-      Program Committee
-      Journal Reviewer
   - block: contact
     id: contact
     content:
