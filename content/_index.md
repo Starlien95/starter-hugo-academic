@@ -80,16 +80,38 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: contact
+  - block: experience
     id: services
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Academic Service
-      subtitle:
-      text: |-
-        Program Committee
-    
-          * NeruIPS
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Program Committee
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2023-05'
+          date_end: ''
+          description: |2-
+              * NeurIPS (2023)
+              * ICLR (2024)
+        - title: Journal Reviewer
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2023-05'
+          date_end: ''
+          description: |2-
+              * Frontiers of Computer Science
     design:
       columns: '2'
 ---
