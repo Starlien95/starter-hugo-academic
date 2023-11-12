@@ -101,6 +101,7 @@ sections:
           date_end: ''
           description: |2-
               * Frontiers of Computer Science
+              * PeerJ
     design:
       columns: '2'
 ---
