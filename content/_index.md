@@ -85,33 +85,12 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Academic&shy;Service'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-06-27'
-          description: 'Frontiers of Computer Science, PeerJ'
-          organization: ''
-          organization_url: ''
-          title: Journal Reviewer
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-05-23'
-          description: 'NeurIPS 2023, ICLR 2024'
-          organization: ''
-          organization_url: ''
-          title: Conference Program Committee Member
-          url: ''
-    design:
-      columns: '2'
+      **Program Committee:**
+        - NeurIPS (2023)
+        - ICLR (2024)
+      **Journal Reviewer**
+        Frontiers of Computer Science
+        PeerJ 
   - block: contact
     id: contact
     content:
