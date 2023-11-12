@@ -84,7 +84,7 @@ sections:
     id: services
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Professional&shy;Service'
+      title: 'Academic&shy;Service'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
