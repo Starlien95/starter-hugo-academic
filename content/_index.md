@@ -80,7 +80,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: experience
+  - block: accomplishments
     id: services
     content:
       title: Academic Service
@@ -94,25 +94,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Program Committee
-          company: ''
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2023-11-21'
+        - certificate_url: ''
           date_end: ''
+          date_start: '2023-11-25'
           description: |2-
               * NeurIPS (2023)
               * ICLR (2024)
-        - title: Journal Reviewer
-          company: ''
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2023-11-21'
-          date_end: ''
-          description: |2-
-              * Frontiers of Computer Science
-              * PeerJ
+          organization: ''
+          organization_url: ''
     design:
       columns: '2'
 ---
