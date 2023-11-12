@@ -2,7 +2,7 @@
 title: Xingtong Yu
 role: Ph.D. Candidate
 avatar_filename: avator.jpg
-bio: My research interests include data mining, graph mining and prompt.
+bio: My research interests include data mining, graph mining and prompting.
 interests: []
 social:
   - icon: envelope
