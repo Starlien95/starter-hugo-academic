@@ -85,6 +85,8 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Academic&shy;Service'
+      subtitle:
+      text: |-
       **Program Committee:**
         - NeurIPS (2023)
         - ICLR (2024)
