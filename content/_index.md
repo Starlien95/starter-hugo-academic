@@ -98,7 +98,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: ''
-          date_start: '2023-05-11'
+          date_start: ''
           date_end: ''
           description: |2-
               * NeurIPS (2023)
