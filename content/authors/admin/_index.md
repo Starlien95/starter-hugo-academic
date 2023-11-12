@@ -20,7 +20,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations: []
+organizations:
+  - name: University of Science and Technology of China
+    url: http://en.ustc.edu.cn/
 education:
   courses: []
 superuser: true
@@ -29,7 +31,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: yxt95@mail.ustc.edu.cn
 ---
 Xingtong Yu is a Ph.D. candidate at the University of Science and Technology of China (USTC). His research  interset is graph mining, graph neural networks, and learning on heterogeneous information networks. More specifically,  he is investigating the novel research problems such as few-shot learning, and prompt tuning on graphs. 
 {style="text-align: justify;"}
