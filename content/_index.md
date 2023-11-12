@@ -98,7 +98,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: ''
-          date_start: '2023-05-21'
+          date_start: '2023-11-21'
           date_end: ''
           description: |2-
               * NeurIPS (2023)
@@ -108,7 +108,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: ''
-          date_start: '2023-05'
+          date_start: '2023-11-21'
           date_end: ''
           description: |2-
               * Frontiers of Computer Science
