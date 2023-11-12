@@ -95,8 +95,7 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: yxt95@mail.ustc.edu.cn
-      # Automatically link email and phone or display as text?
-      autolink: true
+      Program Committee
     design:
       columns: '2'
 ---
