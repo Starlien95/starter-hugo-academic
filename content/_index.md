@@ -88,11 +88,7 @@ sections:
       subtitle:
       text: |-
       **Program Committee:**
-        - NeurIPS (2023)
-        - ICLR (2024)
       **Journal Reviewer**
-        Frontiers of Computer Science
-        PeerJ 
   - block: contact
     id: contact
     content:
