@@ -87,10 +87,8 @@ sections:
       title: Academic Service
       subtitle:
       text: |-
-        **Program Committee**
-    
-        - NeruIPS (2023)
-    
+        **Program Committee**  
+        - NeruIPS (2023)  
         **Journal Reviewer**
     design:
       columns: '2'
