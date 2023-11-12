@@ -87,10 +87,6 @@ sections:
       title: Academic Service
       subtitle:
       text: |-
-      Program Committee
-      Journal Reviewer
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
@@ -101,14 +97,6 @@ sections:
       email: yxt95@mail.ustc.edu.cn
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
