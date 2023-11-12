@@ -87,7 +87,9 @@ sections:
       title: Academic Service
       subtitle:
       text: |-
-        **Program Committee**
+        Program Committee
+      text: |-
+        NeruIPS
     design:
       columns: '2'
 ---
