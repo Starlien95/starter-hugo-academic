@@ -86,7 +86,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Academic Service
       subtitle:
-      text: |-
+      description: |-
         Program Committee
         * NeruIPS
     design:
