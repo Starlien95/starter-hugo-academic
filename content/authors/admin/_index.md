@@ -20,9 +20,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: University of Science and Technology of China
-    url: https://www.ustc.edu.cn/
+organizations: []
 education:
   courses: []
 superuser: true
