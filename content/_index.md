@@ -87,6 +87,8 @@ sections:
       title: Academic Service
       subtitle:
       text: |-
+      Program Committee
+      Journal Reviewer
   - block: contact
     id: contact
     content:
