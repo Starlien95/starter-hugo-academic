@@ -88,7 +88,9 @@ sections:
       subtitle:
       text: |-
         **Program Committee**
+    
         - NeruIPS (2023)
+    
         **Journal Reviewer**
     design:
       columns: '2'
