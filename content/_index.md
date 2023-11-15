@@ -93,7 +93,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Program Committee
+        - title: Program Committee Member
           company: ''
           company_url: ''
           company_logo: ''
@@ -103,6 +103,7 @@ sections:
           description: |2-
               * NeurIPS (2023)
               * ICLR (2024)
+              * ICMR (2024)
         - title: Journal Reviewer
           company: ''
           company_url: ''
