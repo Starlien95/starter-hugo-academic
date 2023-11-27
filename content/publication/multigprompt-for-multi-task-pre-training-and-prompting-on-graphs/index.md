@@ -4,6 +4,9 @@ publication_types:
   - "3"
 authors:
   - admin
+  - Chang Zhou
+  - Yuan Fang
+  - Xinming Zhang
 draft: false
 featured: false
 image:
