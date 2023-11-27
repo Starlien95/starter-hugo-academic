@@ -7,7 +7,7 @@ authors:
   - Chang Zhou
   - Yuan Fang
   - Xinming Zhang
-publication_short: Preprint, 2023
+publication_short: Preprint
 draft: false
 featured: false
 image:
