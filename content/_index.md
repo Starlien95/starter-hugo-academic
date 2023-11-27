@@ -83,7 +83,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Preprint papers
+      title: Preprint Papers
       filters:
         folders:
           - preprint
