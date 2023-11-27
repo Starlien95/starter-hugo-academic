@@ -129,7 +129,7 @@ sections:
           date_end: ''
           description: |2-
               * Frontiers of Computer Science
-              * PeerJ
+              * PeerJ Computer Science
     design:
       columns: '2'
 ---
