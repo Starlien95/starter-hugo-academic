@@ -13,6 +13,38 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: experience
+    id: education
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Ph.D. Student
+          company: School of Computer Science and Technology, University of Science and Technology of China
+          company_url: 'http://en.cs.ustc.edu.cn/main.htm'
+          company_logo: ''
+          location: Hefei, China
+          date_start: '2019-09-01'
+          date_end: ''
+          description: |2-
+              * Supervisor: [Xinming Zhang](http://staff.ustc.edu.cn/~xinming/)
+        - title: Bachelor
+          company: School of the Gifted Young, University of Science and Technology of China
+          company_url: 'http://en.scgy.ustc.edu.cn/'
+          company_logo: ''
+          location: Hefei, China
+          date_start: '2015-09-01'
+          date_end: '2019-07-01'
+          description: ''
+    design:
+      columns: '2'
+  - block: experience
     id: experience
     content:
       title: Experience
@@ -35,23 +67,6 @@ sections:
           description: |2-
               * Supervisor: [Yuan Fang](https://www.yfang.site/)
               * Mentor: [Zemin Liu](https://zemin-liu.github.io/)
-        - title: Ph.D. Student
-          company: School of Computer Science and Technology, University of Science and Technology of China
-          company_url: 'http://en.cs.ustc.edu.cn/main.htm'
-          company_logo: ''
-          location: Hefei, China
-          date_start: '2019-09-01'
-          date_end: ''
-          description: |2-
-              * Supervisor: [Xinming Zhang](http://staff.ustc.edu.cn/~xinming/)
-        - title: Bachelor
-          company: School of the Gifted Young, University of Science and Technology of China
-          company_url: 'http://en.scgy.ustc.edu.cn/'
-          company_logo: ''
-          location: Hefei, China
-          date_start: '2015-09-01'
-          date_end: '2019-07-01'
-          description: ''
     design:
       columns: '2'
   - block: collection
