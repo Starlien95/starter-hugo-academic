@@ -12,6 +12,7 @@ authors:
   - jin Ma
   - Qing Ding
   - Xinming Zhang
+doi: https://doi.org/10.1145/3581783.3611913
 publication: ""
 publication_short: The ACM International Conference on Multimedia (ACMMM), 2023
 abstract: Current Scene text image super-resolution approaches primarily focus
@@ -38,12 +39,12 @@ abstract: Current Scene text image super-resolution approaches primarily focus
   respectively, increasing the performance from 52.6\% and 53.7\% to 53.3\% and
   56.3\%. The code is available at https://anonymous.4open.science/r/RTSRN-FD14.
 draft: false
-featured: false
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611913
-url_code: https://github.com/wenyu1009/RTSRN
+featured: false
 image:
   filename: framework.png
   focal_point: Smart
   preview_only: false
 date: 2023-08-06T02:38:03.393Z
+url_code: https://github.com/wenyu1009/RTSRN
 ---
