@@ -40,6 +40,7 @@ abstract: Current Scene text image super-resolution approaches primarily focus
 draft: false
 featured: false
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611913
+url_code: https://github.com/wenyu1009/RTSRN
 image:
   filename: framework.png
   focal_point: Smart
