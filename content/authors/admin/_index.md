@@ -5,9 +5,6 @@ avatar_filename: avator.jpg
 bio: My research interests include data mining, graph mining and prompting.
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=VKWhRggAAAAJ&hl=en&inst=14102473421921925766
