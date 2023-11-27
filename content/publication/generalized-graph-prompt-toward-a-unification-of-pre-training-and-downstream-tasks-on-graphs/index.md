@@ -5,11 +5,7 @@ publication_types:
   - "3"
 authors:
   - admin
-  - Zhenghao Liu
-  - Yuan Fang
-  - Zemin Liu
-  - Sihong Chen
-  - Xinming Zhang
+publication_short: Preprint, 2023
 draft: false
 featured: false
 image:
