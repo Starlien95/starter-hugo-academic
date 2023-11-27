@@ -10,7 +10,7 @@ authors:
   - Zemin Liu
   - Sihong Chen
   - Xinming Zhang
-publication_short: Preprint, 2023
+publication_short: Preprint
 draft: false
 featured: false
 image:
