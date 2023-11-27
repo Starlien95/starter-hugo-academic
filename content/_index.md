@@ -80,17 +80,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: featured
-    content:
-      title: Preprint Papers
-      filters:
-        folders:
-          - preprint
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: experience
     id: services
     content:
