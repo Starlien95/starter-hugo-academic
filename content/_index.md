@@ -72,7 +72,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Featured Papers
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -85,9 +85,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: featured
+    id: other
     content:
-      title: Other Publications
+      title: Other Papers
       filters:
         folders:
           - publication
