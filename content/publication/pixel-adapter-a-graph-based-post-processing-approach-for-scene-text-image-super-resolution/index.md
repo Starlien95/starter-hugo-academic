@@ -39,7 +39,7 @@ abstract: Current Scene text image super-resolution approaches primarily focus
   56.3\%. The code is available at https://anonymous.4open.science/r/RTSRN-FD14.
 draft: false
 featured: false
-url_pdf: https://openreview.net/pdf?id=Z945zpz9uM
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611913
 image:
   filename: framework.png
   focal_point: Smart
