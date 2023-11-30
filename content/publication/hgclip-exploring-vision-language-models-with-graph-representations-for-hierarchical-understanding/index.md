@@ -18,4 +18,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-11-30T08:16:10.485Z
+url_pdf: https://arxiv.org/abs/2311.14064
+url_code: https://github.com/richard-peng-xia/HGCLIP
 ---
