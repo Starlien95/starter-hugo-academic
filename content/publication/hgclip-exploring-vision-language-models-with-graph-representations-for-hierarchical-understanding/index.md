@@ -13,7 +13,7 @@ authors:
   - Zhiyong Wang
   - Peibo Duan
   - Zongyuan Ge
-publication_short: Preprint
+publication_short: Under review
 featured: false
 image:
   filename: featured
