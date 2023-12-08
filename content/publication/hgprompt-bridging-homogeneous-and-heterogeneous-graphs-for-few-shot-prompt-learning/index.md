@@ -10,7 +10,7 @@ authors:
   - Zemin Liu
   - Yuan Fang
   - Xinming Zhang
-publication: Preprint.
+publication: Preprint
 featured: false
 image:
   filename: featured
