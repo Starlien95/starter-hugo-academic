@@ -1,6 +1,7 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/pdf/2312.01878.pdf
+url_code: https://github.com/Starlien95/HGPrompt
 title: "HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot
   Prompt Learning"
 publication_types:
