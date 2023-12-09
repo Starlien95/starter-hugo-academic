@@ -11,7 +11,7 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication: Accepted by AAAI2024
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
