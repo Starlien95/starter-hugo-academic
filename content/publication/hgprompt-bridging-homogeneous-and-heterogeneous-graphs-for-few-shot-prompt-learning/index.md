@@ -19,3 +19,11 @@ image:
 date: 2023-12-06T09:00:51.618Z
 url_code: https://github.com/Starlien95/HGPrompt
 ---
+B﻿ibTeX Citation:
+
+@article{yu2024hgprompt,
+  title={HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning},
+  author={Yu, Xingtong and Liu, Zemin and Fang, Yuan and Zhang, Xinming},
+  journal={AAAI},
+  year={2024}
+}
