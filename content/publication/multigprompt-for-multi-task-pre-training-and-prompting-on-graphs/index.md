@@ -15,6 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-12-13T09:55:39.762Z
+url_pdf: https://arxiv.org/pdf/2312.03731.pdf
 ---
 BibTeX Citation:
 
