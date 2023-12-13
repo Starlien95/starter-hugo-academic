@@ -1,6 +1,4 @@
 ---
-draft: false
-url_pdf: https://arxiv.org/abs/2311.14064
 title: "HGCLIP: Exploring Vision-Language Models with Graph Representations for
   Hierarchical Understanding"
 publication_types:
@@ -14,6 +12,9 @@ authors:
   - Peibo Duan
   - Zongyuan Ge
 publication_short: Under review
+abstract: " "
+draft: false
+url_pdf: https://arxiv.org/abs/2311.14064
 featured: false
 image:
   filename: featured
