@@ -1,6 +1,4 @@
 ---
-draft: false
-url_pdf: https://arxiv.org/pdf/2312.01878.pdf
 title: "HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot
   Prompt Learning"
 publication_types:
@@ -11,6 +9,9 @@ authors:
   - Zemin Liu
   - Xinming Zhang
 publication: Accepted by AAAI2024
+abstract: " "
+draft: false
+url_pdf: https://arxiv.org/pdf/2312.01878.pdf
 featured: true
 image:
   filename: featured
