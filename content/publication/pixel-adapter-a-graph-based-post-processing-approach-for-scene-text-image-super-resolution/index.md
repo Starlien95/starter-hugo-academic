@@ -28,10 +28,10 @@ url_code: https://github.com/wenyu1009/RTSRN
 ---
 B﻿ibTeX Citation:
 
-@inproceedings{zhang2023pixel,
-  title={Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution},
-  author={Zhang, Wenyu and Deng, Xin and Jia, Baojun and Yu, Xingtong and Chen, Yifan and Ma, Jin and Ding, Qing and Zhang, Xinming},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={2168--2179},
-  year={2023}
-}
+> @inproceedings{zhang2023pixel,
+>   title={Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution},
+>   author={Zhang, Wenyu and Deng, Xin and Jia, Baojun and Yu, Xingtong and Chen, Yifan and Ma, Jin and Ding, Qing and Zhang, Xinming},
+>   booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+>   pages={2168--2179},
+>   year={2023}
+> }
