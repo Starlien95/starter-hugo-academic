@@ -19,11 +19,11 @@ date: 2023-11-27T04:00:25.325Z
 ---
 BibTeX Citation:
 
-@misc{yu2023multigprompt,
-      title={MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs}, 
-      author={Xingtong Yu and Chang Zhou and Yuan Fang and Xinming Zhang},
-      year={2023},
-      eprint={2312.03731},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+> @misc{yu2023multigprompt,
+>       title={MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs}, 
+>       author={Xingtong Yu and Chang Zhou and Yuan Fang and Xinming Zhang},
+>       year={2023},
+>       eprint={2312.03731},
+>       archivePrefix={arXiv},
+>       primaryClass={cs.CL}
+> }
