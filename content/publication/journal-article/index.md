@@ -38,3 +38,12 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/Starlien95/GraphPrompt
 ---
+B﻿ibTeX Citation:
+
+@inproceedings{liu2023graphprompt,
+  title={Graphprompt: Unifying pre-training and downstream tasks for graph neural networks},
+  author={Liu, Zemin and Yu, Xingtong and Fang, Yuan and Zhang, Xinming},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  pages={417--428},
+  year={2023}
+}
