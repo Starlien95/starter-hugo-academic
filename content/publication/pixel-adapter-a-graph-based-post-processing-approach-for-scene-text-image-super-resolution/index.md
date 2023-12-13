@@ -15,7 +15,7 @@ authors:
 doi: https://doi.org/10.1145/3581783.3611913
 publication: ""
 publication_short: The ACM International Conference on Multimedia (ACMMM), 2023
-abstract: ""
+abstract: " "
 draft: false
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611913
 featured: false
