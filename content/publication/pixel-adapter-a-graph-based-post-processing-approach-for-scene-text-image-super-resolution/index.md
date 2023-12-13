@@ -15,36 +15,23 @@ authors:
 doi: https://doi.org/10.1145/3581783.3611913
 publication: ""
 publication_short: The ACM International Conference on Multimedia (ACMMM), 2023
-abstract: Current Scene text image super-resolution approaches primarily focus
-  on extracting robust features from low-resolution images and optimizing the
-  loss function during training to generate super-resolution images. However,
-  the previous method neglects the upsampling process within the model leading
-  to a decline in image quality. To address this issue, our method not only
-  emphasizes robust feature extraction but also innovatively introduces a
-  post-processing module. Specifically, We propose the Pixel Adapter Module
-  (PAM), a graph attention-based approach that efficiently aggregates pixel
-  features, smoothing local regions and mitigating upsampling-induced
-  discontinuity. PAM outperforms prior graph-based attention mechanisms,
-  offering 2-3 orders of magnitude faster processing and reduced memory
-  consumption. We propose a multi-layer perception (MLP) based Sequential
-  Residual Block, which enhances the feature extraction capabilities and
-  provides robust features for the upsampling module. Furthermore, to perceive
-  local image contours, we introduce the Local Contour Awareness Loss, utilizing
-  the Histogram of Oriented Gradients feature as the reconstruction target. This
-  ensures the model prioritizes the retention of geometric and optical
-  deformations in the image. Comprehensive experiments on TextZoom demonstrate
-  that our proposed method generates high-quality super-resolution images,
-  surpassing existing methods in recognition accuracy. For single-stage and
-  multi-stage strategies, we achieved improvements of 0.7\% and 2.6\%,
-  respectively, increasing the performance from 52.6\% and 53.7\% to 53.3\% and
-  56.3\%. The code is available at https://anonymous.4open.science/r/RTSRN-FD14.
+abstract: ""
 draft: false
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611913
 featured: false
 image:
-  filename: framework.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2023-08-06T02:38:03.393Z
 url_code: https://github.com/wenyu1009/RTSRN
 ---
+B﻿ibTeX Citation:
+
+@inproceedings{zhang2023pixel,
+  title={Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution},
+  author={Zhang, Wenyu and Deng, Xin and Jia, Baojun and Yu, Xingtong and Chen, Yifan and Ma, Jin and Ding, Qing and Zhang, Xinming},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={2168--2179},
+  year={2023}
+}
