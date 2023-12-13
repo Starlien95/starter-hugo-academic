@@ -17,7 +17,7 @@ image:
   preview_only: false
 date: 2023-11-27T04:00:25.325Z
 ---
-C﻿ite as:
+BibTeX Citation:
 
 @misc{yu2023multigprompt,
       title={MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs}, 
