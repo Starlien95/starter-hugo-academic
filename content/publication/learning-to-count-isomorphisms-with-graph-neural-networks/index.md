@@ -38,9 +38,9 @@ url_code: https://github.com/Starlien95/Count-GNN
 ---
 BibTeX Citation:
 
-@article{yu2023learning,
-  title={Learning to count isomorphisms with graph neural networks},
-  author={Yu, Xingtong and Liu, Zemin and Fang, Yuan and Zhang, Xinming},
-  journal={AAAI},
-  year={2023}
-}
+> @article{yu2023learning,
+>   title={Learning to count isomorphisms with graph neural networks},
+>   author={Yu, Xingtong and Liu, Zemin and Fang, Yuan and Zhang, Xinming},
+>   journal={AAAI},
+>   year={2023}
+> }
