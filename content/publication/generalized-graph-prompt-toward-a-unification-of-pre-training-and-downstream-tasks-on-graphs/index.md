@@ -1,6 +1,4 @@
 ---
-draft: false
-url_pdf: https://arxiv.org/pdf/2311.15317.pdf
 title: "Generalized Graph Prompt: Toward a Unification of Pre-Training and
   Downstream Tasks on Graphs"
 publication_types:
@@ -13,6 +11,9 @@ authors:
   - Sihong Chen
   - Xinming Zhang
 publication_short: Under review
+abstract: " "
+draft: false
+url_pdf: https://arxiv.org/pdf/2311.15317.pdf
 featured: false
 image:
   filename: featured
