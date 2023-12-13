@@ -36,7 +36,7 @@ publishDate: ""
 url_poster: ""
 url_code: https://github.com/Starlien95/Count-GNN
 ---
-C﻿ite as:
+BibTeX Citation:
 
 @article{yu2023learning,
   title={Learning to count isomorphisms with graph neural networks},
