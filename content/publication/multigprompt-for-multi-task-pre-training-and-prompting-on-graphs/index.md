@@ -1,6 +1,4 @@
 ---
-draft: false
-url_pdf: https://arxiv.org/pdf/2312.03731.pdf
 title: MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs
 publication_types:
   - "3"
@@ -10,6 +8,9 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: Under review
+abstract: " "
+draft: false
+url_pdf: https://arxiv.org/pdf/2312.03731.pdf
 featured: false
 image:
   filename: featured
