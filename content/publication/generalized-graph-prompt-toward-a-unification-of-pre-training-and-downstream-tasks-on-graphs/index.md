@@ -21,7 +21,7 @@ image:
 date: 2023-11-27T03:56:42.761Z
 url_code: https://github.com/gmcmt/graph_prompt_extension
 ---
-C﻿ite as:
+BibTeX Citation:
 
 @misc{yu2023generalized,
       title={Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs}, 
