@@ -22,3 +22,10 @@ image:
 date: 2023-11-30T08:16:10.485Z
 url_code: https://github.com/richard-peng-xia/HGCLIP
 ---
+B﻿ibTeX Citation:
+
+@article{xia2023hgclip,
+  title={HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding},
+  author={Xia, Peng and Yu, Xingtong and Hu, Ming and Ju, Lie and Wang, Zhiyong and Duan, Peibo and Ge, Zongyuan},
+  journal={arXiv preprint arXiv:2311.14064},
+  year={2023}
