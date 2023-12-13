@@ -25,6 +25,6 @@ B﻿ibTeX Citation:
 > @article{yu2024hgprompt,
 >   title={HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning},
 >   author={Yu, Xingtong and Liu, Zemin and Fang, Yuan and Zhang, Xinming},
->   journal={AAAI},
+>   journal={the 38th AAAI Conference on Artificial Intelligence},
 >   year={2024}
 > }
