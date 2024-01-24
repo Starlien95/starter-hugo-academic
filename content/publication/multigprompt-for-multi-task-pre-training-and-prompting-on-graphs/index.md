@@ -1,21 +1,21 @@
 ---
+draft: false
+url_pdf: https://arxiv.org/pdf/2312.03731.pdf
 title: MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Chang Zhou
   - Yuan Fang
   - Xinming Zhang
-publication_short: Under review
-draft: false
+publication_short: The ACM Web Conference (WWW), 2023
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2023-12-13T09:55:39.762Z
-url_pdf: https://arxiv.org/pdf/2312.03731.pdf
 ---
 BibTeX Citation:
 
