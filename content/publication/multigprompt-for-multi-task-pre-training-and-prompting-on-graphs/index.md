@@ -10,7 +10,7 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: The ACM Web Conference (WWW), 2024
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
