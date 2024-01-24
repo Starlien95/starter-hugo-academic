@@ -9,7 +9,7 @@ authors:
   - Chang Zhou
   - Yuan Fang
   - Xinming Zhang
-publication_short: The ACM Web Conference (WWW), 2023
+publication_short: The ACM Web Conference (WWW), 2024
 featured: false
 image:
   filename: featured
