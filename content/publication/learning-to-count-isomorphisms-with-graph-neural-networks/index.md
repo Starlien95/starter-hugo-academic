@@ -36,11 +36,3 @@ publishDate: ""
 url_poster: ""
 url_code: https://github.com/Starlien95/Count-GNN
 ---
-BibTeX Citation:
-
-> @article{yu2023learning,
->   title={Learning to count isomorphisms with graph neural networks},
->   author={Yu, Xingtong and Liu, Zemin and Fang, Yuan and Zhang, Xinming},
->   journal={the 37th AAAI Conference on Artificial Intelligence},
->   year={2023}
-> }
