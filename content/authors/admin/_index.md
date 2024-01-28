@@ -30,4 +30,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Xingtong Yu now is a Ph.D. candidate in the University of Science and Technology of China. His research interests lie in **graph learning** and **prompt tuning**, particularly in investigating the novel research problems such as learning on heterogeneous information network and dynamic graphs, few-shot learning. Moreover, he has served as the PC member for top-tier conferences including ICLR, NeurIPS, CVPR, etc.
+Xingtong Yu now is a Ph.D. candidate in the University of Science and Technology of China. His research interests lie in **graph learning** and **prompt tuning**, particularly in investigating the novel research problems such as learning on heterogeneous information network and dynamic graphs, few-shot learning. Moreover, he has served as the PC member for top-tier conferences including ICLR, NeurIPS, ICML, etc.
