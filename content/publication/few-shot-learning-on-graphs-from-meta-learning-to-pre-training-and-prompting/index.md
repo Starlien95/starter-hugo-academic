@@ -12,6 +12,9 @@ authors:
   - Jianyuan Bo
   - Xinming Zhang
   - Steven C.H. Hoi
+author_notes:
+  - Equal contribution
+  - Equal contribution
 publication_short: Preprint
 draft: false
 featured: false
