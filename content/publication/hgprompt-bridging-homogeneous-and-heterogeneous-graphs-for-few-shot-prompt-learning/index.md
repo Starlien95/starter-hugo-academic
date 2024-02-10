@@ -1,5 +1,5 @@
 ---
-title: "HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot
+title: "HGPrompt: Bridging Homogeneous and Heterogeneous Graphs for Few-shot
   Prompt Learning"
 publication_types:
   - "1"
