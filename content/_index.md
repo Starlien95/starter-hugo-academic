@@ -118,8 +118,9 @@ sections:
           description: |2-
               * NeurIPS (2023)
               * ICLR (2024)
-              * CVPR (2024)
               * ICML (2024)
+              * WWW (2024)
+              * CVPR (2024)
               * ICMR (2024)
         - title: Journal Reviewer
           company: ''
