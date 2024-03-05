@@ -33,6 +33,7 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |2-
+              * Supervisor: [Xinming Zhang]
         - title: Bachelor
           company: School of the Gifted Young, University of Science and Technology of China
           company_url: 'http://en.scgy.ustc.edu.cn/'
