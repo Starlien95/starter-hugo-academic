@@ -10,11 +10,11 @@ authors:
   - Zemin Liu
   - Sihong Chen
   - Xinming Zhang
-publication_short: Preprint
+publication_short: Under review
 abstract: " "
 draft: false
 url_pdf: https://arxiv.org/pdf/2311.15317.pdf
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
