@@ -25,13 +25,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Student
+        - title: Ph.D.
           company: School of Computer Science and Technology, University of Science and Technology of China
           company_url: 'http://en.cs.ustc.edu.cn/main.htm'
           company_logo: ''
           location: Hefei, China
           date_start: '2019-09-01'
-          date_end: ''
+          date_end: '2024-06-01'
           description: |2-
               * Supervisor: Xinming Zhang
         - title: Bachelor
