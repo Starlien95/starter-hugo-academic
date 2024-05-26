@@ -12,7 +12,7 @@ publication: The AAAI Conference on Artificial Intelligence (AAAI), 2024
 abstract: " "
 draft: false
 url_pdf: https://arxiv.org/pdf/2312.01878.pdf
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
