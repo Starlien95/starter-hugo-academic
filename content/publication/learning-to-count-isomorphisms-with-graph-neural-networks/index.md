@@ -10,7 +10,7 @@ authors:
 publication_short: The AAAI Conference on Artificial Intelligence (AAAI), 2023
 abstract: " "
 draft: false
-featured: true
+featured: false
 tags: []
 slides: ""
 url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25610/25382
