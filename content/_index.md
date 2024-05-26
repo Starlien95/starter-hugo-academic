@@ -87,7 +87,7 @@ sections:
   - block: collection
     id: other
     content:
-      title: Other Papers
+      title: All Papers
       filters:
         folders:
           - publication
