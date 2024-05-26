@@ -9,7 +9,7 @@ authors:
   - Xinming Zhang
 publication_short: Under review
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
