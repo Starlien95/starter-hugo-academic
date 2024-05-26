@@ -1,5 +1,5 @@
 ---
-title: Text-Free Multi-domain Graph Pre-training:Toward Graph Foundation Models
+title: "Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models"
 publication_types:
   - "3"
 authors:
