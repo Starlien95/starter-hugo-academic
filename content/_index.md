@@ -116,12 +116,13 @@ sections:
           date_start: '2023-05-11'
           date_end: ''
           description: |2-
-              * NeurIPS (2023)
+              * NeurIPS (2023, 2024)
               * ICLR (2024)
               * ICML (2024)
               * WWW (2024)
               * CVPR (2024)
               * ICMR (2024)
+              * CIKM (2024)
         - title: Journal Reviewer
           company: ''
           company_url: ''
