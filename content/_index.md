@@ -83,7 +83,7 @@ sections:
   - block: collection
     id: other
     content:
-      title: All Papers
+      title: Recent Papers
       filters:
         folders:
           - publication
