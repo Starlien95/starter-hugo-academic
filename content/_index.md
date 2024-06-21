@@ -58,6 +58,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Visiting Research Student
+          company: Center for Spatial Information Science, The University of Tokyo
+          company_url: 'https://www.u-tokyo.ac.jp/en/index.html'
+          company_logo: ''
+          location: Tokyo, Japan
+          date_start: '2024-05-24'
+          date_end: '2024-08-31'
+          description: |2-
+              * Supervisor: [Renhe Jiang](https://www.renhejiang.com/)
+        - title: Visiting Research Student
           company: School of Computing and Information System, Singapore Management University
           company_url: 'https://scis.smu.edu.sg/'
           company_logo: ''
