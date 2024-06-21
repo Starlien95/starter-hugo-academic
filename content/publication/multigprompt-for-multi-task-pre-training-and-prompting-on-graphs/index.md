@@ -17,6 +17,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-12-13T09:55:39.762Z
 url_code: https://github.com/Nashchou/MultiGPrompt
 ---
