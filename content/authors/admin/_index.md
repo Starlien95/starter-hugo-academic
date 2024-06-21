@@ -30,4 +30,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Xingtong Yu obtained his B.E. and Ph.D.  in the School of Computer Science and Technology of China, University of Science and Technology of China. His research interests lie in graph learning and prompt learning, particularly in investigating the novel research problems such as learning on few-shot learning, graph foundation model. Moreover, he has served as the PC member for top-tier conferences including ICLR, NeurIPS, ICML, etc.
+Xingtong Yu obtained his B.E. and Ph.D.  in the School of Computer Science and Technology University of Science and Technology of China. His research interests lie in graph learning and prompt learning, particularly in investigating the novel research problems such as learning on few-shot learning, graph foundation model. Moreover, he has served as the PC member for top-tier conferences including ICLR, NeurIPS, ICML, etc.
