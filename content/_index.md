@@ -72,7 +72,7 @@ sections:
           company_logo: ''
           location: Singapore, Singapore
           date_start: '2022-07-01'
-          date_end: ''
+          date_end: '2024-03-01'
           description: |2-
               * Supervisor: [Yuan Fang](https://www.yfang.site/)
               * Mentor: [Zemin Liu](https://zemin-liu.github.io/)
