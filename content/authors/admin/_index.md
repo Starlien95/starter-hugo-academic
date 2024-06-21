@@ -1,6 +1,6 @@
 ---
 title: Xingtong Yu
-role: Ph.D.
+role: Doctor
 avatar_filename: avatar.jpg
 bio: My research interests include data mining, graph mining and prompting.
 interests: []
