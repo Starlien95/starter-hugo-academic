@@ -2,7 +2,7 @@
 title: "Generalized Graph Prompt: Toward a Unification of Pre-Training and
   Downstream Tasks on Graphs"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Zhenghao Liu
@@ -10,7 +10,7 @@ authors:
   - Zemin Liu
   - Sihong Chen
   - Xinming Zhang
-publication_short: Under review
+publication_short: IEEE Transactions on Knowledge and Data Engineering
 abstract: " "
 draft: false
 url_pdf: https://arxiv.org/pdf/2311.15317.pdf
