@@ -19,6 +19,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-11-27T03:56:42.761Z
+date: 2024-06-23T09:28:52.872Z
 url_code: https://github.com/gmcmt/graph_prompt_extension
 ---
