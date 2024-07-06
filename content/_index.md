@@ -23,17 +23,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    id: other
-    content:
-      title: Recent Papers
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
   - block: experience
     id: services
     content:
