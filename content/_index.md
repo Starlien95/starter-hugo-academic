@@ -79,7 +79,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Research Student
+        - title: Visiting Research Scholar
           company: Center for Spatial Information Science, The University of Tokyo
           company_url: 'https://www.u-tokyo.ac.jp/en/index.html'
           company_logo: ''
@@ -88,7 +88,7 @@ sections:
           date_end: '2024-08-31'
           description: |2-
               * Supervisor: [Renhe Jiang](https://www.renhejiang.com/)
-        - title: Visiting Research Student
+        - title: Visiting Research Scholar
           company: School of Computing and Information System, Singapore Management University
           company_url: 'https://scis.smu.edu.sg/'
           company_logo: ''
