@@ -24,46 +24,6 @@ sections:
       columns: '2'
       view: card
   - block: experience
-    id: services
-    content:
-      title: Academic Service
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Program Committee Member
-          company: ''
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2023-05-11'
-          date_end: ''
-          description: |2-
-              * NeurIPS (2023, 2024)
-              * ICLR (2024)
-              * ICML (2024)
-              * WWW (2024)
-              * CVPR (2024)
-              * ICMR (2024)
-              * CIKM (2024)
-        - title: Journal Reviewer
-          company: ''
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2023-05-11'
-          date_end: ''
-          description: |2-
-              * Frontiers of Computer Science
-              * PeerJ Computer Science
-    design:
-      columns: '2'
-  - block: experience
     id: education
     content:
       title: Education
@@ -127,6 +87,46 @@ sections:
           description: |2-
               * Supervisor: [Yuan Fang](https://www.yfang.site/)
               * Mentor: [Zemin Liu](https://zemin-liu.github.io/)
+    design:
+      columns: '2'
+  - block: experience
+    id: services
+    content:
+      title: Academic Service
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Program Committee Member
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2023-05-11'
+          date_end: ''
+          description: |2-
+              * NeurIPS (2023, 2024)
+              * ICLR (2024)
+              * ICML (2024)
+              * WWW (2024)
+              * CVPR (2024)
+              * ICMR (2024)
+              * CIKM (2024)
+        - title: Journal Reviewer
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2023-05-11'
+          date_end: ''
+          description: |2-
+              * Frontiers of Computer Science
+              * PeerJ Computer Science
     design:
       columns: '2'
 ---
