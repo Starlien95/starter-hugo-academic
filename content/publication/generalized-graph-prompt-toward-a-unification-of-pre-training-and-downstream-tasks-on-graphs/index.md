@@ -10,6 +10,7 @@ authors:
   - Zemin Liu
   - Sihong Chen
   - Xinming Zhang
+doi: 10.1109/TKDE.2024.3419109
 publication_short: IEEE Transactions on Knowledge and Data Engineering
 abstract: " "
 draft: false
