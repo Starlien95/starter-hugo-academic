@@ -132,9 +132,10 @@ sections:
           description: |2-
               * KDD (2025)
               * WWW (2024)
-              * ICLR (2024)
+              * ICLR (2024, 2025)
               * NeurIPS (2023, 2024)
               * ICML (2024)
+              * AAAI (2025)
               * CVPR (2024)
               * CIKM (2024)
               * ICMR (2024)
