@@ -1,6 +1,6 @@
 ---
 title: Xingtong Yu
-role: Doctor
+role: Research Scientist
 avatar_filename: avatar.jpg
 bio: My research interests include data mining, graph mining and prompting.
 interests: []
@@ -30,4 +30,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Xingtong Yu obtained his B.E. and Ph.D.  from University of Science and Technology of China. His research interests lie in graph learning and prompt learning, particularly in investigating the novel research problems such as few-shot learning, graph foundation model. Moreover, he has served as the PC member for top-tier conferences including ICLR, NeurIPS, ICML, etc.
+Xingtong Yu is currently a Research Scientist at Singapore Management University. He obtained his B.E. from the School of the Gifted Young, University of Science and Technology of China, and Ph.D form the School of Computer Science and Technology, University of Science and Technology of China. His research interests lie in graph learning, prompt learning, and graph foundation model. Moreover, he has served as the PC member for top-tier conferences including KDD, WWW, ICLR, NeurIPS, ICML, etc.
