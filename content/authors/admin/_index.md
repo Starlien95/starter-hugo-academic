@@ -18,8 +18,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: University of Science and Technology of China
-    url: http://en.ustc.edu.cn/
+  - name: SINGAPORE MANAGEMENT UNIVERSITY
+    url: https://www.smu.edu.sg/
 education:
   courses: []
 superuser: true
