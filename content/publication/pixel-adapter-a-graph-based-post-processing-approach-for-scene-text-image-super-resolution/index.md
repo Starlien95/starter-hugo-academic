@@ -17,7 +17,7 @@ publication: ""
 publication_short: The ACM International Conference on Multimedia (ACMMM), 2023
 abstract: " "
 draft: false
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611913
+url_pdf: https://arxiv.org/abs/2309.08919
 featured: false
 image:
   filename: ""
