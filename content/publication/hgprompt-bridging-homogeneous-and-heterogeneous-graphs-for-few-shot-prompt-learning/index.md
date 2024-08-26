@@ -11,7 +11,7 @@ authors:
 publication: The AAAI Conference on Artificial Intelligence (AAAI), 2024
 abstract: " "
 draft: false
-url_pdf: https://arxiv.org/pdf/2312.01878.pdf
+url_pdf: https://arxiv.org/pdf/2312.01878
 doi: https://doi.org/10.1609/aaai.v38i15.29596
 featured: false
 image:
