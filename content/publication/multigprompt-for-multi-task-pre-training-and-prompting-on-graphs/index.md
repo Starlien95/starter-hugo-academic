@@ -12,7 +12,7 @@ publication_short: The ACM Web Conference (WWW), 2024
 abstract: " "
 draft: false
 url_pdf: https://arxiv.org/abs/2312.03731
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
