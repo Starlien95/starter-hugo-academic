@@ -11,7 +11,7 @@ doi: https://doi.org/10.1145/3589334.3645423
 publication_short: The ACM Web Conference (WWW), 2024
 abstract: " "
 draft: false
-url_pdf: https://arxiv.org/pdf/2312.03731.pdf
+url_pdf: https://arxiv.org/abs/2312.03731
 featured: true
 image:
   filename: featured
