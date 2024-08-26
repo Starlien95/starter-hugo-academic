@@ -79,6 +79,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist
+          company: School of Computing and Information System, Singapore Management University
+          company_url: 'https://scis.smu.edu.sg/'
+          company_logo: ''
+          location: Singapore, Singapore
+          date_start: '2024-08-26'
+          date_end: '2025-08-25'
+          description: |2-
+              * Supervisor: [Yuan Fang](https://www.yfang.site/)
         - title: Visiting Research Scholar
           company: Center for Spatial Information Science, The University of Tokyo
           company_url: 'https://www.u-tokyo.ac.jp/en/index.html'
@@ -121,13 +130,14 @@ sections:
           date_start: '2023-05-11'
           date_end: ''
           description: |2-
-              * NeurIPS (2023, 2024)
-              * ICLR (2024)
-              * ICML (2024)
+              * KDD (2025)
               * WWW (2024)
+              * ICLR (2024)
+              * NeurIPS (2023, 2024)
+              * ICML (2024)
               * CVPR (2024)
-              * ICMR (2024)
               * CIKM (2024)
+              * ICMR (2024)
         - title: Journal Reviewer
           company: ''
           company_url: ''
