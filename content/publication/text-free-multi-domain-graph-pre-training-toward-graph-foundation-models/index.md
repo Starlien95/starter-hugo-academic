@@ -1,4 +1,6 @@
 ---
+draft: false
+url_pdf: https://arxiv.org/abs/2405.13934
 title: "Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models"
 publication_types:
   - "3"
@@ -7,13 +9,11 @@ authors:
   - Chang Zhou
   - Yuan Fang
   - Xinming Zhang
-publication_short: Under review
-draft: false
+publication_short: Preprint
 featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2024-05-26T01:50:09.043Z
-url_pdf: https://arxiv.org/abs/2405.13934
 ---
