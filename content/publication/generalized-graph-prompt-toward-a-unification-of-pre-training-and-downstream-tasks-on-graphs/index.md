@@ -14,7 +14,7 @@ doi: 10.1109/TKDE.2024.3419109
 publication_short: IEEE Transactions on Knowledge and Data Engineering
 abstract: " "
 draft: false
-url_pdf: https://arxiv.org/pdf/2311.15317
+url_pdf: https://arxiv.org/abs/2311.15317
 featured: true
 image:
   filename: featured
