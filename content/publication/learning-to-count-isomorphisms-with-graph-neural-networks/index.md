@@ -13,7 +13,7 @@ draft: false
 featured: false
 tags: []
 slides: ""
-url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25610/25382
+url_pdf: https://arxiv.org/abs/2302.03266
 image:
   caption: ""
   focal_point: ""
