@@ -11,9 +11,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Starlien95
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%98%9F%E6%A9%A6-%E4%BA%8E-583050267/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
