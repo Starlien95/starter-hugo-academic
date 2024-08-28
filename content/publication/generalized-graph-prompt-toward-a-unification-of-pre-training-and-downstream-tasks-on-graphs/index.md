@@ -15,7 +15,7 @@ publication_short: IEEE Transactions on Knowledge and Data Engineering
 abstract: " "
 draft: false
 url_pdf: https://arxiv.org/abs/2311.15317
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
