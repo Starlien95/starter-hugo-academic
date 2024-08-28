@@ -10,7 +10,7 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: Preprint
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
