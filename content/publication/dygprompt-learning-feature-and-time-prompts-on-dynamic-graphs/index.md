@@ -1,4 +1,6 @@
 ---
+draft: false
+url_pdf: https://arxiv.org/abs/2405.13937
 title: "DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs "
 publication_types:
   - "3"
@@ -10,13 +12,11 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: Under review
-draft: false
+publication_short: Preprint
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-url_pdf: https://arxiv.org/abs/2405.13937
 date: 2024-05-26T01:48:40.659Z
 ---
