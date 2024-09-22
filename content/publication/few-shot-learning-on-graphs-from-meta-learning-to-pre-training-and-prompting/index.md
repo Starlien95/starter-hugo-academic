@@ -1,7 +1,8 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/abs/2402.01440
-title: "Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting"
+title: "A Survey of Few-Shot Learning on Graphs: from Meta-Learning to
+  Pre-Training and Prompt Learning"
 subtitle: ""
 publication_types:
   - "3"
@@ -18,7 +19,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication_short: Preprint
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
