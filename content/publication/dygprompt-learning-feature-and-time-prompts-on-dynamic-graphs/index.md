@@ -1,7 +1,7 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/abs/2405.13937
-title: "DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs "
+title: Node-Time Conditional Prompt Learning In Dynamic Graphs
 publication_types:
   - "3"
 authors:
