@@ -147,8 +147,8 @@ sections:
           date_start: '2023-05-11'
           date_end: ''
           description: |2-
+              * Information Fusion
               * Frontiers of Computer Science
-              * PeerJ Computer Science
     design:
       columns: '2'
 ---
