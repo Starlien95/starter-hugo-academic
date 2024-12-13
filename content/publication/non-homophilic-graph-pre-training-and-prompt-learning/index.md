@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: https://arxiv.org/abs/2408.12594v2
+url_pdf: https://arxiv.org/abs/2408.12594v4
 title: Non-Homophilic Graph Pre-Training and Prompt Learning
 publication_types:
   - "3"
