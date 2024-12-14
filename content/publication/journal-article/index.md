@@ -10,7 +10,7 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 publication_short: The ACM Web Conference (WWW), 2023
-abstract: One of the Most Influential Papers in WWW'23 by Paper Digest (2023-09 Version)
+abstract: "The Most Influential Papers in WWW'23 by Paper Digest "
 draft: false
 featured: true
 projects: []
