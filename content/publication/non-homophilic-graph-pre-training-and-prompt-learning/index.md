@@ -12,7 +12,7 @@ authors:
   - Renhe Jiang
 publication_short: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025
 featured: false
-url_pdf: https://arxiv.org/abs/2311.15317
+url_pdf: https://arxiv.org/abs/2408.12594v4
 url_code: https://github.com/Jaygagaga/ProNoG
 image:
   filename: featured
