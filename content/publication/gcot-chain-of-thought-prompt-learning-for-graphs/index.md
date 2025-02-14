@@ -1,7 +1,6 @@
 ---
 title: "GCoT: Chain-of-Thought Prompt Learning for Graphs "
 publication_types:
-  - "0"
   - "3"
 authors:
   - admin
