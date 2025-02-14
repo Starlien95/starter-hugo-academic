@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://arxiv.org/abs/2405.13937
 title: Node-Time Conditional Prompt Learning In Dynamic Graphs
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Zhenghao Liu
@@ -12,7 +12,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: Preprint
+publication_short: International Conference on Learning Representations, 2025
 featured: false
 image:
   filename: featured
