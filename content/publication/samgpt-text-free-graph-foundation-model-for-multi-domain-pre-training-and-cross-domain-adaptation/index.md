@@ -9,7 +9,7 @@ authors:
   - Chang Zhou
   - Yuan Fang
   - Hui Zhang
-publication: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025.
+publication: The ACM Web Conference (WWW), 2025
 draft: false
 featured: false
 image:
