@@ -9,6 +9,7 @@ authors:
   - Xinming Zhang
   - Yuan Fang
 publication_short: Preprint
+url_pdf: https://arxiv.org/abs/2502.08092
 draft: false
 featured: true
 image:
