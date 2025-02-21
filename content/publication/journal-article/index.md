@@ -31,7 +31,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: ""
 date: 2023-04-19T15:26:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
