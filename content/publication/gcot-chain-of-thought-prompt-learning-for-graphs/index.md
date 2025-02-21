@@ -9,8 +9,9 @@ authors:
   - Xinming Zhang
   - Yuan Fang
 publication_short: Preprint
-url_pdf: https://arxiv.org/abs/2502.08092
+abstract: The first work that explores Chain-of-Thought prompting on graphs
 draft: false
+url_pdf: https://arxiv.org/abs/2502.08092
 featured: true
 image:
   filename: featured
