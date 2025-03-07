@@ -130,11 +130,11 @@ sections:
           date_start: '2023-05-11'
           date_end: ''
           description: |2-
-              * KDD (2025)
-              * WWW (2024, 2025)
               * ICLR (2024, 2025)
               * NeurIPS (2023, 2024)
-              * ICML (2024)
+              * ICML (2024, 2025)
+              * KDD (2025)
+              * WWW (2024, 2025)
               * AAAI (2025)
               * CVPR (2024)
               * CIKM (2024)
