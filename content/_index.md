@@ -148,6 +148,7 @@ sections:
           date_end: ''
           description: |2-
               * Information Fusion
+              * IEEE Transactions on Knowledge and Data Engineering
               * Frontiers of Computer Science
     design:
       columns: '2'
