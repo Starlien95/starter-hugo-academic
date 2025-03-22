@@ -37,6 +37,17 @@ sections:
   - block: collection
     id: other
     content:
+      title: 2024 Papers
+      filters:
+        folders:
+          - 2024 publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: other
+    content:
       title: 2023 Papers
       filters:
         folders:
