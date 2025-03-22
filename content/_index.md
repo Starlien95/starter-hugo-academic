@@ -37,7 +37,7 @@ sections:
   - block: collection
     id: other
     content:
-      title: 2025
+      title: 2025 papers
       filters:
         folders:
           - publication2025
