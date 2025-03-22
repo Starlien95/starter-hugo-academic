@@ -9,7 +9,7 @@ authors:
   - Chang Zhou
   - Yuan Fang
   - Hui Zhang
-publication: The ACM Web Conference (WWW), 2025
+publication: The ACM Web Conference (WWW)
 url_pdf: https://arxiv.org/abs/2502.05424
 url_code: https://github.com/blue-soda/SAMGPT
 draft: false
