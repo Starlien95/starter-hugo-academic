@@ -18,7 +18,7 @@ sections:
       title: Featured Papers
       filters:
         folders:
-          - publication
+          - publication 
         featured_only: true
     design:
       columns: '2'
@@ -29,7 +29,7 @@ sections:
       title: 2025 Papers
       filters:
         folders:
-          - publication2025
+          - publication-2025
         exclude_featured: false
     design:
       columns: '2'
