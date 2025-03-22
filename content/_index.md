@@ -29,7 +29,7 @@ sections:
       title: 2025 Papers
       filters:
         folders:
-          - publication-2025
+          - 2025-publication
         exclude_featured: false
     design:
       columns: '2'
