@@ -26,10 +26,10 @@ sections:
   - block: collection
     id: other
     content:
-      title: Recent Papers
+      title: 2025 Papers
       filters:
         folders:
-          - publication
+          - publication2025
         exclude_featured: false
     design:
       columns: '2'
@@ -37,10 +37,10 @@ sections:
   - block: collection
     id: other
     content:
-      title: 2025 papers
+      title: 2023 Papers
       filters:
         folders:
-          - publication2025
+          - publication
         exclude_featured: false
     design:
       columns: '2'
