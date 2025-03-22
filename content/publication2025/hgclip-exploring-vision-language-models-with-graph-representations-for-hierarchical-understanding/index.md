@@ -20,6 +20,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-1-30T08:16:10.485Z
+date: 2025-01-30T08:16:10.485Z
 url_code: https://github.com/richard-peng-xia/HGCLIP
 ---
