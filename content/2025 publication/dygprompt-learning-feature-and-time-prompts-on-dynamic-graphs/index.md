@@ -12,7 +12,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: International Conference on Learning Representations, 2025
+publication_short: International Conference on Learning Representations (ICLR)
 featured: false
 image:
   filename: featured
