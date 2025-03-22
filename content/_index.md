@@ -34,6 +34,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: other
+    content:
+      title: 2025
+      filters:
+        folders:
+          - publication2025
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
   - block: experience
     id: education
     content:
