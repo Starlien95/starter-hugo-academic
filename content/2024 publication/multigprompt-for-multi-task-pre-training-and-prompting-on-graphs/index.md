@@ -8,7 +8,7 @@ authors:
   - Yuan Fang
   - Xinming Zhang
 doi: https://doi.org/10.1145/3589334.3645423
-publication_short: The ACM Web Conference (WWW), 2024
+publication_short: The ACM Web Conference (WWW)
 abstract: " "
 draft: false
 url_pdf: https://arxiv.org/abs/2312.03731
