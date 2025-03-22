@@ -51,7 +51,7 @@ sections:
       title: 2023 Papers
       filters:
         folders:
-          - publication
+          - 2023 publication
         exclude_featured: false
     design:
       columns: '2'
