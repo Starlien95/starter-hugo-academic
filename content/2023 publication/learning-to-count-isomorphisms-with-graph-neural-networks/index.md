@@ -7,7 +7,7 @@ authors:
   - Zemin Liu
   - Yuan Fang
   - Xinming Zhang
-publication_short: The AAAI Conference on Artificial Intelligence (AAAI), 2023
+publication_short: The AAAI Conference on Artificial Intelligence (AAAI)
 abstract: " "
 draft: false
 featured: false
