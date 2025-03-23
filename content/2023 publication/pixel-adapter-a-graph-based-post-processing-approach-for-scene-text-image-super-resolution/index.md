@@ -14,7 +14,7 @@ authors:
   - Xinming Zhang
 doi: https://doi.org/10.1145/3581783.3611913
 publication: ""
-publication_short: The ACM International Conference on Multimedia (ACMMM), 2023
+publication_short: The ACM International Conference on Multimedia (MM)
 abstract: " "
 draft: false
 url_pdf: https://arxiv.org/abs/2309.08919
