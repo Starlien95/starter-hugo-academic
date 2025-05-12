@@ -153,7 +153,7 @@ sections:
           date_end: ''
           description: |2-
               * ICLR (2024, 2025)
-              * NeurIPS (2023, 2024)
+              * NeurIPS (2023, 2024, 2025)
               * ICML (2024, 2025)
               * KDD (2025)
               * WWW (2024, 2025)
