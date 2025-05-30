@@ -1,6 +1,5 @@
 ---
-title: Taming Recommendation Bias with Causal Intervention on Evolving Personal
-  Popularity
+title: Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity
 publication_types:
   - "1"
 authors:
@@ -17,5 +16,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-05-30T07:41:21.334Z
+date: 2025-01-30T07:41:21.334Z
 ---
