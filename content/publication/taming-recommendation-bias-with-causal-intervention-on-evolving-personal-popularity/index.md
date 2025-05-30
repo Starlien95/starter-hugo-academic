@@ -10,6 +10,7 @@ authors:
   - Zhen Wang
   - admin
   - Manabu Okumura
+publication_short: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)
 draft: false
 featured: false
 image:
