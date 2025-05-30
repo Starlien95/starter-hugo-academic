@@ -1,5 +1,4 @@
 ---
-
 title: Taming Recommendation Bias with Causal Intervention on Evolving Personal
   Popularity
 publication_types:
