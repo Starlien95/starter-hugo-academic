@@ -8,7 +8,7 @@ authors:
   - Dongyuan Li
   - Renhe Jiang
   - Zhen Wang
-  - author
+  - admin
   - Manabu Okumura
 draft: false
 featured: false
