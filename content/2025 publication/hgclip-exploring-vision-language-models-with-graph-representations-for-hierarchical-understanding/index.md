@@ -2,7 +2,7 @@
 draft: false
 url_pdf: https://arxiv.org/abs/2405.13937
 url_code: https://github.com/richard-peng-xia/HGCLIP
-title: HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding
+title: "HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding "
 publication_types:
   - "1"
 authors:
