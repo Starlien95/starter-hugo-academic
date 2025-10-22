@@ -11,7 +11,7 @@ publication: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKD
 draft: false
 featured: false
 url_code: https://github.com/Jaygagaga/ProNoG
-url_pdf: https://arxiv.org/abs/2408.12594
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3690624.3709219
 image:
   filename: featured
   focal_point: Smart
