@@ -10,6 +10,7 @@ authors:
   - admin
   - Manabu Okumura
 publication_short: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3711896.3737146
 draft: false
 featured: false
 image:
@@ -18,3 +19,4 @@ image:
   preview_only: false
 date: 2025-01-30T07:41:21.334Z
 ---
+
