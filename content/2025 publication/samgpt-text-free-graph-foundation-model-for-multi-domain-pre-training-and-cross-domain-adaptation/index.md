@@ -10,7 +10,7 @@ authors:
   - Yuan Fang
   - Hui Zhang
 publication: The ACM Web Conference (WWW)
-url_pdf: https://arxiv.org/abs/2502.05424
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3696410.3714828
 url_code: https://github.com/blue-soda/SAMGPT
 draft: false
 featured: false
