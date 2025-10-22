@@ -11,7 +11,7 @@ authors:
 publication_short: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)
 abstract: The first work that explores Chain-of-Thought prompting on graphs
 draft: false
-url_pdf: https://arxiv.org/abs/2502.08092
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3711896.3736974
 featured: true
 image:
   filename: gcot.png
