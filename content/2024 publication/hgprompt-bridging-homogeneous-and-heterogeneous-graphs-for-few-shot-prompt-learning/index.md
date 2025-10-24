@@ -11,7 +11,7 @@ authors:
 publication: The AAAI Conference on Artificial Intelligence (AAAI)
 abstract: " "
 draft: false
-url_pdf: https://arxiv.org/pdf/2312.01878
+url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29596
 doi: https://doi.org/10.1609/aaai.v38i15.29596
 featured: false
 image:
