@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: https://arxiv.org/abs/2405.13937
+url_pdf: https://openreview.net/pdf?id=kVlfYvIqaK
 url_code: https://github.com/gmcmt/DyGPrompt
 title: Node-Time Conditional Prompt Learning In Dynamic Graphs
 publication_types:
@@ -21,3 +21,4 @@ image:
   preview_only: false
 date: 2025-03-22T01:48:40.659Z
 ---
+
