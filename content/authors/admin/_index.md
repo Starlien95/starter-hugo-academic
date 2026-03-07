@@ -15,8 +15,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: SINGAPORE MANAGEMENT UNIVERSITY
-    url: https://www.smu.edu.sg/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk
 education:
   courses: []
 superuser: true
