@@ -1,7 +1,7 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/pdf/2510.13393?
-title: Node-Time Conditional Prompt Learning In Dynamic Graphs
+title: Learnable Game-Theoretic Policy Optimization for Data-Centric Self-Explanation Rationalization
 publication_types:
   - "1"
 authors:
@@ -19,4 +19,5 @@ image:
   preview_only: false
 date: 2025-01-22T01:48:40.659Z
 ---
+
 
