@@ -101,6 +101,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong
+          company_url: 'https://www.cuhk.edu.hk/'
+          company_logo: ''
+          location: Hong Kong, China
+          date_start: '2026-01-26'
+          date_end: '2027-01-25'
+          description: |2-
+              * Supervisor: [Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/)
         - title: Research Scientist
           company: School of Computing and Information System, Singapore Management University
           company_url: 'https://scis.smu.edu.sg/'
