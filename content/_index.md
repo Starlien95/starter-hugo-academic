@@ -24,6 +24,18 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: papers-2026
+    content:
+      title: 2026 Papers
+      count: 0
+      filters:
+        folders:
+          - 2026 publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: other
     content:
       title: 2025 Papers
