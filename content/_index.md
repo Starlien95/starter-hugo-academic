@@ -184,6 +184,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Area Chair
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_label: '2026'
+          description: |2-
+              * KDD (2026)
         - title: Conference Reviewer
           company: ''
           company_url: ''
