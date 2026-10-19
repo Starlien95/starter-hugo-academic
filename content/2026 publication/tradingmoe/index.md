@@ -15,7 +15,7 @@ author_notes:
   - ""
   - ""
   - ""
-  - ""
+  - "Corresponding author"
 publication_types:
   - "3"
 publication_short: "Preprint"
