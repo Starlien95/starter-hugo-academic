@@ -1,5 +1,5 @@
-{{/* First/co-first authors, corresponding authors, then collaborators.
-     Within each group: published work, then preprints, newest first.
+{{/* Accepted/published work before preprints.
+     Within each status: first/co-first, corresponding, collaborators; newest first.
      Author roles use the same author_notes rendered as name tooltips. */}}
 {{ $rows := slice }}
 {{ range . }}
@@ -24,7 +24,7 @@
   {{ if or (gt (len (findRE "preprint|arxiv" $venue)) 0) (in (.Params.publication_types | default slice) "3") }}
     {{ $status_rank = 1 }}
   {{ end }}
-  {{ $key := printf "%d-%d-%010d-%s" $role_rank $status_rank (sub 9999999999 $paper.Date.Unix) $paper.RelPermalink }}
+  {{ $key := printf "%d-%d-%010d-%s" $status_rank $role_rank (sub 9999999999 $paper.Date.Unix) $paper.RelPermalink }}
   {{ $rows = $rows | append (dict "page" $paper "key" $key) }}
 {{ end }}
 {{ $result := slice }}
