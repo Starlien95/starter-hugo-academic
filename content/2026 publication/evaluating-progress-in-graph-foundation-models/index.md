@@ -8,6 +8,14 @@ authors:
   - "Hong Cheng"
   - "Xinming Zhang"
   - "Yuan Fang"
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
 publication_types:
   - "3"
 publication_short: "Preprint"
