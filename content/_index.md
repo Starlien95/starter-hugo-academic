@@ -16,6 +16,10 @@ sections:
     id: featured
     content:
       title: Featured Papers
+      count: 0
+      sort_by: publication_priority
+      archive:
+        enable: false
       filters:
         folders:
           - publication 
@@ -28,6 +32,9 @@ sections:
     content:
       title: 2026 Papers
       count: 0
+      sort_by: publication_priority
+      archive:
+        enable: false
       filters:
         folders:
           - 2026 publication
@@ -36,9 +43,13 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: other
+    id: papers-2025
     content:
       title: 2025 Papers
+      count: 0
+      sort_by: publication_priority
+      archive:
+        enable: false
       filters:
         folders:
           - 2025 publication
@@ -47,9 +58,13 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: other
+    id: papers-2024
     content:
       title: 2024 Papers
+      count: 0
+      sort_by: publication_priority
+      archive:
+        enable: false
       filters:
         folders:
           - 2024 publication
@@ -58,9 +73,13 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: other
+    id: papers-2023
     content:
       title: 2023 Papers
+      count: 0
+      sort_by: publication_priority
+      archive:
+        enable: false
       filters:
         folders:
           - 2023 publication

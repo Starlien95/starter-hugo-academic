@@ -1,0 +1,34 @@
+{{/* First/co-first authors, corresponding authors, then collaborators.
+     Within each group: published work, then preprints, newest first.
+     Author roles use the same author_notes rendered as name tooltips. */}}
+{{ $rows := slice }}
+{{ range . }}
+  {{ $paper := . }}
+  {{ $role_rank := 2 }}
+  {{ $notes := .Params.author_notes | default slice }}
+  {{ range $index, $author := (.Params.authors | default slice) }}
+    {{ if in (slice "admin" "Xingtong Yu") $author }}
+      {{ $note := "" }}
+      {{ if lt $index (len $notes) }}
+        {{ $note = lower (index $notes $index) }}
+      {{ end }}
+      {{ if or (eq $index 0) (gt (len (findRE "equal contribution|co[- ]?first" $note)) 0) }}
+        {{ $role_rank = 0 }}
+      {{ else if gt (len (findRE "corresponding" $note)) 0 }}
+        {{ $role_rank = 1 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $status_rank := 0 }}
+  {{ $venue := lower (printf "%s %s" (.Params.publication_short | default "") (.Params.publication | default "")) }}
+  {{ if or (gt (len (findRE "preprint|arxiv" $venue)) 0) (in (.Params.publication_types | default slice) "3") }}
+    {{ $status_rank = 1 }}
+  {{ end }}
+  {{ $key := printf "%d-%d-%010d-%s" $role_rank $status_rank (sub 9999999999 $paper.Date.Unix) $paper.RelPermalink }}
+  {{ $rows = $rows | append (dict "page" $paper "key" $key) }}
+{{ end }}
+{{ $result := slice }}
+{{ range sort $rows "key" "asc" }}
+  {{ $result = $result | append .page }}
+{{ end }}
+{{ return $result }}

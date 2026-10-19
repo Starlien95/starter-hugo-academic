@@ -6,6 +6,12 @@ authors:
   - "Yuan Fang"
   - "Rudi Stouffs"
   - "Zdravko Trivic"
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
+  - ""
+  - ""
+  - ""
 publication_types:
   - "1"
 publication_short: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)"
